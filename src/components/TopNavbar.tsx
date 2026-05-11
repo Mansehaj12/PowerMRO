@@ -210,7 +210,7 @@ export default function TopNavbar({ alerts, onMobileMenuToggle, mobileMenuOpen }
             boxShadow: "0 0 15px rgba(0,163,224,0.3)",
           }}
         >
-          RK
+          MS
         </div>
       </div>
     </header>
