@@ -2,6 +2,8 @@
 
 ![PowerMRO Banner](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+🔴 **Live Demo:** [https://power-mro.vercel.app/](https://power-mro.vercel.app/)
+
 PowerMRO is a premium, production-grade **Maintenance, Repair, and Overhaul (MRO)** dashboard designed to simulate enterprise-level equipment health monitoring and predictive analytics. 
 
 This project was built specifically to demonstrate full-stack engineering, data visualization, and UI/UX design capabilities in the context of industrial systems—such as those used by **Rolls-Royce Power Systems**.
